@@ -1,3 +1,4 @@
+**/.DS_Store
 .DS_Store
 /.build
 /Packages
@@ -6,4 +7,3 @@ xcuserdata/
 Package.resolved
 Package.pins
 .swiftpm
-
